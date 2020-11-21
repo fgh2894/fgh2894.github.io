@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://keepsmile.top/2020/11/21/%E6%B0%B4%E5%B9%B3%E5%92%8C%E5%9E%82%E7%9B%B4%E6%96%B9%E5%90%91%E5%9D%87%E5%B1%85%E4%B8%AD/</loc>
+    
+    <lastmod>2020-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://keepsmile.top/2020/11/19/%E7%9B%92%E5%AD%90%E6%A8%A1%E5%9E%8B/</loc>
+    
+    <lastmod>2020-11-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://keepsmile.top/2020/09/28/Hexo%E5%86%99%E6%96%87%E7%AB%A0/</loc>
     
     <lastmod>2020-11-18</lastmod>
@@ -95,7 +109,7 @@
 
   <url>
     <loc>http://keepsmile.top/</loc>
-    <lastmod>2020-11-18</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,14 +117,14 @@
   
   <url>
     <loc>http://keepsmile.top/tags/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2020-11-18</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://keepsmile.top/tags/hexo%E6%A1%86%E6%9E%B6/</loc>
-    <lastmod>2020-11-18</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -119,14 +133,14 @@
   
   <url>
     <loc>http://keepsmile.top/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2020-11-18</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://keepsmile.top/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-11-18</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
