@@ -1,11 +1,94 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.5">
   <diagram name="第 1 页" id="AM6dDcf3yNord1xax8dx">
-    <mxGraphModel dx="778" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1111" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="884CYoDpGaJ2NWDO9zPn-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="884CYoDpGaJ2NWDO9zPn-1" target="M4mvLvQ8TGmxgBLsu0vZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="884CYoDpGaJ2NWDO9zPn-1" value="飞连管理后台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="294" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-1" value="外置飞连访客portal认证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4mvLvQ8TGmxgBLsu0vZ-2" target="M4mvLvQ8TGmxgBLsu0vZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-2" value="添加SSID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4mvLvQ8TGmxgBLsu0vZ-3" target="M4mvLvQ8TGmxgBLsu0vZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-3" value="添加H3C无线AC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4mvLvQ8TGmxgBLsu0vZ-4" target="M4mvLvQ8TGmxgBLsu0vZ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-4" value="创建portalServer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4mvLvQ8TGmxgBLsu0vZ-5" target="M4mvLvQ8TGmxgBLsu0vZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-5" value="H3C管理后台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-6" value="&lt;span style=&quot;color: rgb(71, 101, 130); font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 11.9px; text-align: left; background-color: rgba(27, 31, 35, 0.05);&quot;&gt;https://{hostname}/multiple-pages/guest-wifi-login.html?apmac=xxxxx&amp;amp;a=1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="555" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4mvLvQ8TGmxgBLsu0vZ-7" target="M4mvLvQ8TGmxgBLsu0vZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-7" value="配置radius方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4mvLvQ8TGmxgBLsu0vZ-8" target="M4mvLvQ8TGmxgBLsu0vZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-8" value="配置ISP域绑定radius模板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M4mvLvQ8TGmxgBLsu0vZ-9" target="M4mvLvQ8TGmxgBLsu0vZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-9" value="配置portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-10" value="创建无线服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-11" value="jmjguest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-12" value="192.168.2.6&lt;div&gt;username；password&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="275" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-14" value="无线控制器对接地址192.168.2.6:2000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-15" value="&lt;span style=&quot;color: rgba(23, 23, 23, 0.8); font-family: PingFangSC, &amp;quot;helvetica neue&amp;quot;, &amp;quot;hiragino sans gb&amp;quot;, arial, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Portal Web 服务器&lt;/span&gt;https://feilian.jiumaojiu.com:10443/multiple-pages/guest-wifi-login.html" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-25" value="&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;认证信息接收地址&lt;span style=&quot;background-color: transparent;&quot;&gt;https://172.16.167.122:9100/login&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-27" value="主172.16.167.122&lt;div&gt;备&lt;span style=&quot;color: rgb(41, 40, 39); font-family: &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 13px; text-align: left; text-wrap-mode: nowrap; background-color: rgb(245, 247, 250);&quot;&gt;192.168.0.122&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-28" value="&lt;span style=&quot;color: rgba(23, 23, 23, 0.8); font-family: PingFangSC, &amp;quot;helvetica neue&amp;quot;, &amp;quot;hiragino sans gb&amp;quot;, arial, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(243, 245, 247);&quot;&gt;放通访客 VLAN 权限（AC IP、DNS、Radius、飞连服务器内外网 IP）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="480" width="273" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-30" value="&lt;span style=&quot;color: rgba(23, 23, 23, 0.8); font-family: PingFangSC, &amp;quot;helvetica neue&amp;quot;, &amp;quot;hiragino sans gb&amp;quot;, arial, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Portal 认证服务器，&lt;/span&gt;&lt;span style=&quot;color: rgba(23, 23, 23, 0.8); font-family: PingFangSC, &amp;quot;helvetica neue&amp;quot;, &amp;quot;hiragino sans gb&amp;quot;, arial, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;外置Portal Server 服务器 IP 地址172.16.167.122&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(23, 23, 23, 0.8); font-family: PingFangSC, &amp;quot;helvetica neue&amp;quot;, &amp;quot;hiragino sans gb&amp;quot;, arial, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4mvLvQ8TGmxgBLsu0vZ-32" value="&lt;span style=&quot;outline: none; appearance: none; box-sizing: border-box; -webkit-tap-highlight-color: rgba(255, 255, 255, 0); margin: 0px; padding: 0px; font-weight: bolder; color: rgba(23, 23, 23, 0.8); font-family: PingFangSC, &amp;quot;helvetica neue&amp;quot;, &amp;quot;hiragino sans gb&amp;quot;, arial, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;URL 携带的参数&lt;/span&gt;&lt;span style=&quot;color: rgba(23, 23, 23, 0.8); font-family: PingFangSC, &amp;quot;helvetica neue&amp;quot;, &amp;quot;hiragino sans gb&amp;quot;, arial, &amp;quot;microsoft yahei ui&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, simsun, &amp;quot;sans-serif&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;：需要添加 apmac、userip 和 nasip&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="400" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
