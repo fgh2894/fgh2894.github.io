@@ -175,7 +175,7 @@
           <mxGeometry x="550" y="300" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHqKiSq6Kojlg-079_1R-2" value="备注：备机默认为子机模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-116" y="190" width="240" height="30" as="geometry" />
+          <mxGeometry x="244" y="220" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zHqKiSq6Kojlg-079_1R-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zHqKiSq6Kojlg-079_1R-14" edge="1">
           <mxGeometry relative="1" as="geometry">
