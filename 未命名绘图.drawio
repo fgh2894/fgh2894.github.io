@@ -431,10 +431,8 @@
         <mxCell id="gqLMOwoUjJwlaszNTNMN-13" value="网络侧解绑旧设备MAC，绑定到新MAC" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="590" y="649.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gqLMOwoUjJwlaszNTNMN-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="749.3300000000002" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-15" target="gqLMOwoUjJwlaszNTNMN-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-15" value="备机卸载APP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="706" width="120" height="53.33" as="geometry" />
@@ -443,13 +441,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-17" value="安装APP选择主机模式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="799.33" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-19" target="gqLMOwoUjJwlaszNTNMN-35">
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-19" target="gqLMOwoUjJwlaszNTNMN-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-19" value="更改备机打印机、一体机IP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="999.9999999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="999.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-19" target="gqLMOwoUjJwlaszNTNMN-19">
           <mxGeometry relative="1" as="geometry" />
@@ -458,13 +456,13 @@
           <mxGeometry x="1110" y="550" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-35" value="根据替换证书类型选择激活参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1109" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-37" target="gqLMOwoUjJwlaszNTNMN-19">
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-37" target="gqLMOwoUjJwlaszNTNMN-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-37" value="主机上修改控制参数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
