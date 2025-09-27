@@ -408,82 +408,71 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="894" y="590" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-9" target="gqLMOwoUjJwlaszNTNMN-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-9" value="四证一体机切换" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="834" y="490" width="120" height="50" as="geometry" />
+          <mxGeometry x="827" y="500" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-12">
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-12" target="gqLMOwoUjJwlaszNTNMN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-12" target="gqLMOwoUjJwlaszNTNMN-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="789" y="626.67" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqLMOwoUjJwlaszNTNMN-10">
-          <mxGeometry x="-0.0778" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1070" y="627" />
+              <mxPoint x="1070" y="1030" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-12" value="故障机是&lt;div&gt;否主机&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="849" y="586.67" width="80" height="80" as="geometry" />
+          <mxGeometry x="847" y="586.67" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-13" value="网络侧解绑设备MAC" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="586.6699999999998" width="120" height="60" as="geometry" />
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-13" value="网络侧解绑旧设备MAC，绑定到新MAC" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="649.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-15" target="gqLMOwoUjJwlaszNTNMN-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gqLMOwoUjJwlaszNTNMN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="749.3300000000002" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-15" value="备机卸载APP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="596.67" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="706" width="120" height="53.33" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-17" target="gqLMOwoUjJwlaszNTNMN-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-17" value="安装APP选择主机模式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="706.67" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="799.33" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-19" target="gqLMOwoUjJwlaszNTNMN-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-19" value="更改备机打印机、一体机IP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="819" y="916.67" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="999.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-19" target="gqLMOwoUjJwlaszNTNMN-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-23" value="备注：备机默认为子机模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="550" width="160" height="30" as="geometry" />
+          <mxGeometry x="1110" y="550" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-35" value="根据替换证书类型选择激活参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="819" y="1016.67" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-37" target="gqLMOwoUjJwlaszNTNMN-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqLMOwoUjJwlaszNTNMN-37" value="主机上修改控制参数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="806.67" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-37" target="gqLMOwoUjJwlaszNTNMN-19">
+        <mxCell id="gqLMOwoUjJwlaszNTNMN-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="709" y="966.67" as="sourcePoint" />
-            <mxPoint x="759" y="916.67" as="targetPoint" />
+            <mxPoint x="840" y="800" as="sourcePoint" />
+            <mxPoint x="880" y="680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="729" y="946.67" />
+              <mxPoint x="730" y="680" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqLMOwoUjJwlaszNTNMN-12" target="gqLMOwoUjJwlaszNTNMN-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="989" y="806.67" as="sourcePoint" />
-            <mxPoint x="1039" y="756.67" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="979" y="626.67" />
-              <mxPoint x="979" y="946.67" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gqLMOwoUjJwlaszNTNMN-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gqLMOwoUjJwlaszNTNMN-39">
-          <mxGeometry x="-0.8923" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
